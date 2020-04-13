@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lable_a">a = </string>
+    <string name="lable_b">b = </string>
+    <string name="result">result = </string>
+
+    <string name="btn_add">+ </string>
+    <string name="btn_sub">- </string>
+    <string name="btn_mul">* </string>
+    <string name="btn_div">/ </string>
+
+
+</resources>
